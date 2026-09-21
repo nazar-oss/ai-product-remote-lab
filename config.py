@@ -1,3 +1,4 @@
-MODEL_NAME = "gpt-4o-mini"
+MODEL_NAME = "gpt-4o"
 TEMPERATURE = 0.7
 MAX_TOKENS = 1000
+TOP_P = 0.9
